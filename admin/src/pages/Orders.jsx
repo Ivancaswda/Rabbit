@@ -1,5 +1,5 @@
 import React, {useContext, useEffect, useState} from 'react'
-import {ShopContext} from "../../../proj-botique/src/context/ShopContext.jsx";
+
 import axios from "axios";
 import {backendUrl} from "../App.jsx";
 import {assets} from "../assets/admin_assets/assets.js";
